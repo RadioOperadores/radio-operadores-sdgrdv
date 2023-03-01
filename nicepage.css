@@ -41869,17 +41869,19 @@ a.u-link.u-text-hover-grey-90:hover {
 
  .u-footer {
   background-image: none;
-  min-height: 61px;
+  min-height: 160px;
+  padding-top: 20px;
 }
 
 .u-footer .u-text-1 {
   font-weight: 700;
   font-size: 2.375rem;
-  margin: 0;
+  margin: 31;
 }
 @media (max-width: 1199px) {
    .u-footer {
-    min-height: 61px;
+    min-height: 160px;
+    padding-top: 20px;
   }
 
   .u-footer .u-text-1 {
