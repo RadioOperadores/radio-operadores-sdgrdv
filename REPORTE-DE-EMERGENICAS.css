@@ -154,12 +154,12 @@
 
 .u-section-1 .u-list-6 {
   width: 1194px;
-  margin: 55px auto 0;
+  margin: 56px auto 0;
 }
 
 .u-section-1 .u-repeater-6 {
   grid-template-columns: calc(20% - 40px) calc(20% - 40px) calc(20% - 40px) calc(20% - 40px) calc(20% - 40px);
-  min-height: 88px;
+  min-height: 87px;
   grid-gap: 50px 50px;
   grid-auto-columns: calc(20% - 40px);
 }
@@ -176,15 +176,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-1 {
-  font-weight: 700;
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
-  margin: 0;
-}
-
-.u-section-1 .u-btn-1 {
-  background-image: none;
-  padding: 0;
+.u-section-1 .u-image-7 {
+  height: 82px;
+  width: 194px;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-list-item-7 {
@@ -199,15 +194,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-2 {
-  font-weight: 700;
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
-  margin: 0;
-}
-
-.u-section-1 .u-btn-2 {
-  background-image: none;
-  padding: 0;
+.u-section-1 .u-image-8 {
+  height: 82px;
+  width: 194px;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-list-item-8 {
@@ -222,15 +212,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-3 {
-  font-weight: 700;
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
-  margin: 0;
-}
-
-.u-section-1 .u-btn-3 {
-  background-image: none;
-  padding: 0;
+.u-section-1 .u-image-9 {
+  height: 82px;
+  width: 194px;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-list-item-9 {
@@ -245,15 +230,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-4 {
-  font-weight: 700;
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
-  margin: 0;
-}
-
-.u-section-1 .u-btn-4 {
-  background-image: none;
-  padding: 0;
+.u-section-1 .u-image-10 {
+  height: 82px;
+  width: 194px;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-list-item-10 {
@@ -267,15 +247,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-5 {
-  font-weight: 700;
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
-  margin: 0;
-}
-
-.u-section-1 .u-btn-5 {
-  background-image: none;
-  padding: 0;
+.u-section-1 .u-image-11 {
+  height: 82px;
+  width: 194px;
+  margin: 0 auto 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -365,6 +340,10 @@
   .u-section-1 .u-repeater-6 {
     grid-template-columns: repeat(5, calc(20% - 40px));
     min-height: 119px;
+  }
+
+  .u-section-1 .u-list-item-10 {
+    transform: rotate(0deg);
   }
 }
 
